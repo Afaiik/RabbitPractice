@@ -1,0 +1,12 @@
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\bin\Debug\net6.0\TestApplication.RabbitMq.Bus.deps.json
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\bin\Debug\net6.0\TestApplication.RabbitMq.Bus.dll
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\bin\Debug\net6.0\TestApplication.RabbitMq.Bus.pdb
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.csproj.AssemblyReference.cache
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.AssemblyInfoInputs.cache
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.AssemblyInfo.cs
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.csproj.CoreCompileInputs.cache
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.dll
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\refint\TestApplication.RabbitMq.Bus.dll
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\TestApplication.RabbitMq.Bus.pdb
+C:\Users\efrain.cettour\source\repos\TestApplication\TestApplication.RabbitMq.Bus\obj\Debug\net6.0\ref\TestApplication.RabbitMq.Bus.dll

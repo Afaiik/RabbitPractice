@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a68b669-dd23-443d-b8dc-897901d99dc0": {
+      "ProjectGuid": "0a68b669-dd23-443d-b8dc-897901d99dc0",
+      "DisplayName": "TestApplication.Api.Test",
+      "ColorIndex": 0
+    },
+    "374112f3-7362-4882-9018-03c83a07906f": {
+      "ProjectGuid": "374112f3-7362-4882-9018-03c83a07906f",
+      "DisplayName": "TestApplication.RabbitMq.Bus",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
